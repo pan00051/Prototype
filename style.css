@@ -1,0 +1,25 @@
+/*--- FOR ALL PAGES ---*/
+/* Mobile view */
+header{
+    height: 75px;
+}
+/* iPad View */
+@media (min-width:768px){
+    header{
+        height: 75px;
+    }
+}
+/* Desktop View */
+@media (min-width:1080px){
+    header{
+        height: 75px;
+    }
+}
+
+/*--- Single page style ---*/
+/* --Home-- */
+/* Home-Mobile */
+
+/* Home-iPad */
+
+/* Home-Desktop */
